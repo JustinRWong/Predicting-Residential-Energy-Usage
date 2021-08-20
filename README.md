@@ -11,5 +11,5 @@ Global climate change continues to increase the demand of energy consumption ove
 
 This study used machine learning and modeling methods to predict the scale of energy consumption increase based on past climate data. For this study, we specifically looked at residential energy usage in kilowatt-hours (kWh). We predicted the scale of energy consumption applicable to the Bay Area, California which can be used to plan increasing energy capacity across utilities, storage, etc.
 
-See (paper)[https://github.com/JustinRWong/Predicting-Residential-Energy-Usage/blob/main/Predicting-Residential-Energy-Usage.pdf] for more details.
+See [paper](https://github.com/JustinRWong/Predicting-Residential-Energy-Usage/blob/main/Predicting-Residential-Energy-Usage.pdf) for more details.
 
